@@ -85,3 +85,4 @@ if (fancyBody) {
   mainContainer.append(darkPart);
   mainContainer.append(lightPart);
 }
+console.log ('JS is connected')
